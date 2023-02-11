@@ -1,2 +1,0 @@
-# oklwstgo
-casthscript
